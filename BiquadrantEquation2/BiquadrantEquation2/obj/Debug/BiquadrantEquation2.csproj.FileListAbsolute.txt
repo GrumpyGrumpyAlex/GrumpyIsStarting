@@ -1,0 +1,6 @@
+F:\Учебное\5sem2020\BKIT\1lab\BiquadrantEquation2\BiquadrantEquation2\BiquadrantEquation2\bin\Debug\BiquadrantEquation2.exe.config
+F:\Учебное\5sem2020\BKIT\1lab\BiquadrantEquation2\BiquadrantEquation2\BiquadrantEquation2\bin\Debug\BiquadrantEquation2.exe
+F:\Учебное\5sem2020\BKIT\1lab\BiquadrantEquation2\BiquadrantEquation2\BiquadrantEquation2\bin\Debug\BiquadrantEquation2.pdb
+F:\Учебное\5sem2020\BKIT\1lab\BiquadrantEquation2\BiquadrantEquation2\BiquadrantEquation2\obj\Debug\BiquadrantEquation2.csprojAssemblyReference.cache
+F:\Учебное\5sem2020\BKIT\1lab\BiquadrantEquation2\BiquadrantEquation2\BiquadrantEquation2\obj\Debug\BiquadrantEquation2.exe
+F:\Учебное\5sem2020\BKIT\1lab\BiquadrantEquation2\BiquadrantEquation2\BiquadrantEquation2\obj\Debug\BiquadrantEquation2.pdb
