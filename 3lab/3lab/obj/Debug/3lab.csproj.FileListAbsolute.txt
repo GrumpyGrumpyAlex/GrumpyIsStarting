@@ -1,0 +1,6 @@
+F:\Учебное\5sem2020\BKIT\3lab\3lab\bin\Debug\3lab.exe.config
+F:\Учебное\5sem2020\BKIT\3lab\3lab\bin\Debug\3lab.exe
+F:\Учебное\5sem2020\BKIT\3lab\3lab\bin\Debug\3lab.pdb
+F:\Учебное\5sem2020\BKIT\3lab\3lab\obj\Debug\3lab.csprojAssemblyReference.cache
+F:\Учебное\5sem2020\BKIT\3lab\3lab\obj\Debug\3lab.exe
+F:\Учебное\5sem2020\BKIT\3lab\3lab\obj\Debug\3lab.pdb
